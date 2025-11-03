@@ -114,4 +114,10 @@ jupyter notebook "EDA on United Nations Refugee Data.ipynb"
 
 ## Requirements
 - Python 3.10+
+
 - See requirements.txt for package dependencies
+
+---
+## Author
+
+Rezaul Islam. [Linkedin](https://www.linkedin.com/in/md-rezaul-islam-cse/)
